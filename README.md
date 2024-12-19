@@ -16,6 +16,9 @@ A aplicação consiste no backend da aplicação com frontend, com adição de p
 - Spring Boot
 - Maven
 
+## Banco de Dados
+- PostgreSQL
+
 ## Front end
 - React
 - Typescript
