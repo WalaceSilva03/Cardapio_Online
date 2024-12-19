@@ -1,0 +1,5 @@
+# Created at 2024-12-13T10:32:35.519
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ProjectsVsCodeSpringBoot\cardapio\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
