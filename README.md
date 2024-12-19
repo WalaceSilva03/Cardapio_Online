@@ -1,4 +1,4 @@
-# Projeto Full Stack Java - SpringBoot e React com Typescript
+# Projeto Full Stack Java com SpringBoot e React com Typescript
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/WalaceSilva03/Cardapio_Online/blob/main/LICENSE)
 
 # Sobre o projeto
