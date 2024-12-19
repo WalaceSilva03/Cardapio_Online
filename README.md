@@ -1,5 +1,5 @@
 # Projeto Full Stack Java - SpirngBoot e React com typescript
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/WalaceSilva03/Cardapio_Online/blob/main/LICENSE)) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/WalaceSilva03/Cardapio_Online/blob/main/LICENSE)
 
 # Sobre o projeto
 
