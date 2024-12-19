@@ -6,7 +6,7 @@
 
 O projeto foi feito para aprendizado de novas tecnologias com base no vídeo realizado pela [Fernanda-Kipper](https://github.com/Fernanda-Kipper).
 
-Segue vídeo utilizado para referência: [Vídeo de Referência](https://www.youtube.com/watch?v=lUVureR5GqI)
+Segue vídeo utilizado para referência: [Criando Aplicação Fullstack do Zero com Java Spring e React](https://www.youtube.com/watch?v=lUVureR5GqI)
 
 A aplicação consiste no backend da aplicação com frontend, com adição de produtos por meio do frontend. CRUD, apresentando Create e Read para o frontend e Update para o backend. 
 
